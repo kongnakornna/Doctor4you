@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor4you.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor4you.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Doctor4you.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1898225470/Doctor4you.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-515055577/Doctor4you.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-892078849/Doctor4you.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-595293942/Doctor4you.react-native-splash-screen.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/992511196/Doctor4you.react-native-svg.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/856236177/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/856236177/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/856236177/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/856236177/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/856236177/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/856236177/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
